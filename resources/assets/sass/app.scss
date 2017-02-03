@@ -1,0 +1,23 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// MEU SASS
+
+.images {
+	li {
+		width: 190px;
+    	text-align: center;
+	    float: left;
+	    position: relative;
+	    padding: 10px;
+	    list-style-type: none;
+	}
+}
+
+
+// Bootstrap
+@import "bootstrap";
